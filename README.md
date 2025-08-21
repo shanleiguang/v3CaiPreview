@@ -26,8 +26,3 @@
 ![image](https://github.com/shanleiguang/v3CaiPreview/blob/main/images/20250820.jpg)
 
 - 作為筆記本的日曆儀錶盤；
-
-## 赞助支持 Sponsorship
-![image](https://github.com/shanleiguang/vRain/blob/main/sponsor_new.png)  
-- 本工具屬於Private開源項目，這裡只是預覽介紹，向贊助者開放。
-- 贊助後我將邀請您訪問該項目，一個月後續訂可通過Sponsor按鈕或該項目頁面提示。
